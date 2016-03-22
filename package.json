@@ -1,7 +1,7 @@
 {
   "name": "bf-proj",
   "description": "The first cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "readme": "README.md",
   "keywords": [
     "toolkit",
@@ -12,7 +12,7 @@
     "bin"
   ],
   "bin": {
-    "init": "./bin/init.js"
+    "init": "./app/bin/bluefocus-init.js"
   },
   "dependencies": {
     "commander": "^2.9.0"
