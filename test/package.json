@@ -1,8 +1,7 @@
 {
-  "name": "bf-proj",
+  "name": "test",
   "description": "The first cli",
-  "version": "0.0.7",
-  "readme": "README.md",
+  "version": "1.0.0",
   "keywords": [
     "toolkit",
     "cli"
@@ -12,13 +11,14 @@
     "bin"
   ],
   "bin": {
-    "init": "./app/bin/bluefocus-init.js"
+    "bluefocus": "./bin/bluefocus.js"
   },
   "dependencies": {
-    "commander": "^2.9.0"
   },
-  "devDependencies": {},
-  "scripts": {},
+  "devDependencies": {
+  },
+  "scripts": {
+  },
   "engine-strict": true,
   "engines": {
     "node": ">= 0.12"
