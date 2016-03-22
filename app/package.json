@@ -1,8 +1,8 @@
 {
   "name": "app",
   "description": "The first cli",
-  "version": "0.0.2",
-  "readme": "README.md"
+  "version": "1.0.0",
+  "readme": "README.md",
   "keywords": [
     "toolkit",
     "cli"
