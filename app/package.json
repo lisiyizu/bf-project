@@ -1,5 +1,5 @@
 {
-  "name": "bf-proj",
+  "name": "app",
   "description": "The first cli",
   "version": "1.0.0",
   "keywords": [
@@ -11,7 +11,7 @@
     "bin"
   ],
   "bin": {
-    "init": "./bin/init.js"
+    "bluefocus-init": "./bin/bluefocus-init.js"
   },
   "dependencies": {
   },
