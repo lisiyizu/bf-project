@@ -5,7 +5,7 @@
 var program = require('commander');
 
 program
-    .version('0.0.1');//声明hi的版本号
+    .version('0.0.2');//声明hi的版本号
 
 program
     .command('list')//声明hi下有一个命令叫list
